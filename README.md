@@ -19,7 +19,16 @@ Projeto Web desenvolvido para fins didáticos. TEMA: 'Discord clone' 🎮💬
 
 ### Desktop (screenshot):
 
+
+
+| Página Inicial |
+| --- |
+|<img src="https://github.com/jfernandesdev/discord-clone/blob/5939ba2deda526312d9b4e952ee4e4e344e861f2/public/layout/layout-1.png" /> | 
+
+
 ### Mobile e Tablet (screenshot):
+
+(Em breve...)
 
 ### Dê uma olhada como o projeto ficou! 👀
 
