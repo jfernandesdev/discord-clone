@@ -2,7 +2,7 @@
 
 Projeto Web desenvolvido para fins didáticos. TEMA: 'Discord clone' 🎮💬
 
-### Funcionalidades:
+### Descrição:
 
 - [x] Reprodução da interface inicial do Discord Web;
 - [x] Menu lateral de servidores, lista de canais, mensagens do canal e lista de usuários online e offline;
@@ -32,7 +32,7 @@ Projeto Web desenvolvido para fins didáticos. TEMA: 'Discord clone' 🎮💬
 
 ### Dê uma olhada como o projeto ficou! 👀
 
-(Em breve ...)
+https://discordclone-jfernandesdev.netlify.app/
 
 <br>
 
